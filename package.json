@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@solana/web3.js": "^1.77.1",
+    "json5": "^2.2.3",
     "request": "^2.88.2"
   }
 }
